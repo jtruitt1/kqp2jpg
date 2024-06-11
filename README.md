@@ -20,3 +20,10 @@ Unfortunately, this is a proprietary file format. The creator, Konica, "merged w
 
 Navigate to the folder containing the KQP files you wish to convert, then invoke the Python script.
 
+## Test files
+
+I have included two test files. Both are from the same 3.5" floppy disk, probably from the late 1990s, and depict a high-school track meet.
+
+- 21_18A.KQP shows a person rolling around in grass next to a track while someone holding a pole or javelin stands next to them. A red pole or javelin bisects the image. (Other photos in the series make it clear that this red stripe is a physical object and not an error)
+
+- 25_22A.KQP shows several people on a field. One is practicing javelin or pole vault, one is watching the practicer, and two are holding poles or javelins and talking to each other.
