@@ -2,7 +2,7 @@
 Small, rough Python script to convert KQP files to JPG.
 
 This script is heavily indebted to several 1996 Usenet posters, especially
-Ed Hamrick. See https://groups.google.com/g/rec.photo.digital/c/lkz_8p8S2U0
+Ed Hamrick. See https://web.archive.org/web/20240611193131/https://groups.google.com/g/rec.photo.digital/c/lkz_8p8S2U0
 for the analysis on which it is based.
 
 ## Background
